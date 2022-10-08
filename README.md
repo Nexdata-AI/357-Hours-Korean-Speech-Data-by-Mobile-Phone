@@ -1,8 +1,10 @@
 # 357-Hours-Korean-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/933
+
 
 ## Description
 357 hours of Korean speech data collected by cellphone. It is recorded by 999 Korean in quiet environment and is rich in content. All texts are transtribed by professional annotator. The accuracy rate of sentence is 95%. It can be used for speech recognition, machine translation and voiceprint recognition.
+
+For more details, please refer to the link: https://bit.ly/3SkxCb2
 
 ## Format
 16kHz, 16bit, wav, mono channel
@@ -30,3 +32,7 @@ speech recognition, voiceprint recognition
 
 ## Device
 Android mobile phone, iPhone
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+
