@@ -4,7 +4,7 @@
 ## Description
 357 hours of Korean speech data collected by cellphone. It is recorded by 999 Korean in quiet environment and is rich in content. All texts are transtribed by professional annotator. The accuracy rate of sentence is 95%. It can be used for speech recognition, machine translation and voiceprint recognition.
 
-For more details, please refer to the link: https://bit.ly/3SkxCb2
+For more details, please refer to the link: https://www.nexdata.ai/datasets/933?source=Github
 
 ## Format
 16kHz, 16bit, wav, mono channel
